@@ -24,12 +24,12 @@ OUTPUT:
 <br>
 ! CODE FOR PRINTING TABLE IN PYTHON 
 CODE:
-```
+~~~
 num = int(input())
 table_end = 10
 for table_val in range(1,table_end+1):
     print(f"{num} x {table_val} = {num*table_value}")
-```
+~~~
 INPUT:
 <br>
 5  10
