@@ -18,4 +18,21 @@ OUTPUT:
 7
 8
 9
-
+# CODE FOR PRINTING TABLE IN PYTHON 
+CODE:
+```
+num = int(input())
+table_end = 10
+for table_val in range(1,table_end+1):
+    print(f"{num},"*",{table_val},"=",{num*table_value}")
+```
+INPUT:
+5  10
+OUTPUT:
+5 * 1 = 5
+<br>
+5 * 2 = 10
+<br>
+.......... till 
+<br>
+5 * 10 = 50
