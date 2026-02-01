@@ -35,7 +35,7 @@ INPUT:
 <br>
 5  10
 OUTPUT:
-<br>
+<br>git commit
 5 x 1 = 5
 <br>
 5 x 2 = 10
