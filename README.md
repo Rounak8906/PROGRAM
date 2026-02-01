@@ -43,3 +43,7 @@ OUTPUT:
 .......... till 
 <br>
 5 x 10 = 50
+ 
+! PRINT HELLO WORLD
+
+print("HELLO WORLD!")
